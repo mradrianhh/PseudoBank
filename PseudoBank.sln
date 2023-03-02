@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoBank.Common", "PseudoBank.Common\PseudoBank.Common.csproj", "{6E95D8F8-D1CC-447D-8713-D7E40812BB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoBank.EFCore", "PseudoBank.EFCore\PseudoBank.EFCore.csproj", "{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoBank.API", "PseudoBank.API\PseudoBank.API.csproj", "{D37EF76E-6D36-4B8C-A978-A43F152726E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E95D8F8-D1CC-447D-8713-D7E40812BB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E95D8F8-D1CC-447D-8713-D7E40812BB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E95D8F8-D1CC-447D-8713-D7E40812BB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E95D8F8-D1CC-447D-8713-D7E40812BB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

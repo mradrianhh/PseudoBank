@@ -1,0 +1,15 @@
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\bin\Debug\net6.0\PseudoBank.EFCore.deps.json
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\bin\Debug\net6.0\PseudoBank.EFCore.dll
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\bin\Debug\net6.0\PseudoBank.EFCore.pdb
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\bin\Debug\net6.0\PseudoBank.Common.dll
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\bin\Debug\net6.0\PseudoBank.Common.pdb
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.csproj.AssemblyReference.cache
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.AssemblyInfoInputs.cache
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.AssemblyInfo.cs
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.csproj.CoreCompileInputs.cache
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.csproj.CopyComplete
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.dll
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\refint\PseudoBank.EFCore.dll
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\PseudoBank.EFCore.pdb
+C:\Prosjekter\PseudoBank\PseudoBank.EFCore\obj\Debug\net6.0\ref\PseudoBank.EFCore.dll

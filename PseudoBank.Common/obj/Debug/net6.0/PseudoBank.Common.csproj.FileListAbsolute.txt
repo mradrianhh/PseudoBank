@@ -1,0 +1,12 @@
+C:\Prosjekter\PseudoBank\PseudoBank.Common\bin\Debug\net6.0\PseudoBank.Common.deps.json
+C:\Prosjekter\PseudoBank\PseudoBank.Common\bin\Debug\net6.0\PseudoBank.Common.dll
+C:\Prosjekter\PseudoBank\PseudoBank.Common\bin\Debug\net6.0\PseudoBank.Common.pdb
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\PseudoBank.Common.csproj.AssemblyReference.cache
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\PseudoBank.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\PseudoBank.Common.AssemblyInfoInputs.cache
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\PseudoBank.Common.AssemblyInfo.cs
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\PseudoBank.Common.csproj.CoreCompileInputs.cache
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\PseudoBank.Common.dll
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\refint\PseudoBank.Common.dll
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\PseudoBank.Common.pdb
+C:\Prosjekter\PseudoBank\PseudoBank.Common\obj\Debug\net6.0\ref\PseudoBank.Common.dll
