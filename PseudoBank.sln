@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoBank.Common", "Pseudo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoBank.EFCore", "PseudoBank.EFCore\PseudoBank.EFCore.csproj", "{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoBank.API", "PseudoBank.API\PseudoBank.API.csproj", "{D37EF76E-6D36-4B8C-A978-A43F152726E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoBank.Online", "PseudoBank.Online\PseudoBank.Online.csproj", "{138523EB-E514-4BC0-BFED-718A59CD443F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{219EDC4F-D65D-48F8-A5CE-2ACEA3C4EE4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D37EF76E-6D36-4B8C-A978-A43F152726E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138523EB-E514-4BC0-BFED-718A59CD443F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138523EB-E514-4BC0-BFED-718A59CD443F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138523EB-E514-4BC0-BFED-718A59CD443F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138523EB-E514-4BC0-BFED-718A59CD443F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

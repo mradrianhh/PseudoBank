@@ -10,4 +10,10 @@ public class DatabaseContext : DbContext
     }
 
     public DbSet<Kunde> Kunde { get; set; } = null!;
+
+    public DbSet<Konto> Konto { get; set; } = null!;
+
+    public DbSet<Produkt> Produkt { get; set; } = null!;
+
+    public DbSet<ProduktTjeneste> ProduktTjeneste { get; set; } = null!;
 }
